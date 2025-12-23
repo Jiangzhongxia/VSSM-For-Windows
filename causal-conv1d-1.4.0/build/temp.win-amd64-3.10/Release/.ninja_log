@@ -1,0 +1,5 @@
+# ninja log v7
+30	12673	7881722754027792	D:/Segmenatation/mamba-for-windows-main/causal-conv1d-1.4.0/build/temp.win-amd64-3.10/Release/csrc/causal_conv1d.obj	f1c132079e7d1ca2
+12730	254328	7881722881024226	D:/Segmenatation/mamba-for-windows-main/causal-conv1d-1.4.0/build/temp.win-amd64-3.10/Release/csrc/causal_conv1d_bwd.obj	8fa0395c07b531a4
+254394	292235	7881725297662953	D:/Segmenatation/mamba-for-windows-main/causal-conv1d-1.4.0/build/temp.win-amd64-3.10/Release/csrc/causal_conv1d_fwd.obj	47142c91ddc3d554
+292243	309867	7881725676158240	D:/Segmenatation/mamba-for-windows-main/causal-conv1d-1.4.0/build/temp.win-amd64-3.10/Release/csrc/causal_conv1d_update.obj	b38c054d9ab3dbe9
